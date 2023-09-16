@@ -1,4 +1,4 @@
-![alt text](https://github.com/[pnagde]/[spotifyCardsvelteJs]/blob/master/src/lib/images/chrome-capture-2023-8-16.gif?raw=true)
+![alt text](https://github.com/pnagde/spotifyCardsvelteJs/blob/master/src/lib/images/chrome-capture-2023-8-16.gif)
 
 # create-svelte
 
