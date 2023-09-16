@@ -1,3 +1,5 @@
+![alt text](https://github.com/[pnagde]/[spotifyCardsvelteJs]/blob/master/src/lib/images/chrome-capture-2023-8-16.gif?raw=true)
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
